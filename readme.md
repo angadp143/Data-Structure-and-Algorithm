@@ -8,4 +8,4 @@
 
 ## Data Types
 
-[Data Types and Type Conversion]()
+[Data Types and Type Conversion](/Code/cpp/1.md)
